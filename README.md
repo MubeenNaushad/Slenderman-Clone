@@ -2,8 +2,7 @@
 <h1 align="center">Slenderman 2.0</h1>
 
 <!-- Project Image -->
-## Video Demo
-
+<h2 align="center">Project Demo</h2>
 <p align="center">
   <a href="https://www.youtube.com/watch?v=qeuFMNZoxDI">Watch the Video Demo</a>
 </p>
