@@ -3,7 +3,7 @@
 
 <!-- Project Image -->
 <p align="center">
-  <img src="https://i.postimg.cc/59QZKBx0/948bf4d4-38b4-46f3-a47e-04dbcaaca3e3.jpg" alt="Slenderman Clone" width="600">
+  <iframe width="600" height="337" src="https://www.youtube.com/watch?v=b3pPHTdZX6M" frameborder="0" allowfullscreen></iframe>
 </p>
 
 <!-- Table of Contents -->
