@@ -3,7 +3,7 @@
 
 <!-- Project Image -->
 <p align="center">
-  <img src="https://link-to-your-image.png" alt="Slenderman Clone" width="600">
+  <img src="https://i.postimg.cc/59QZKBx0/948bf4d4-38b4-46f3-a47e-04dbcaaca3e3.jpg" alt="Slenderman Clone" width="600">
 </p>
 
 <!-- Table of Contents -->
@@ -100,15 +100,11 @@
   <li>Open a pull request.</li>
 </ol>
 
-<!-- License -->
-<h2 id="license">License</h2>
-<p>This project is licensed under the MIT License - see the <a href="LICENSE">LICENSE</a> file for details.</p>
-
 <!-- Contact -->
 <h2 id="contact">Contact</h2>
 <p>
-  <strong>Author:</strong> Your Name<br>
-  <strong>Email:</strong> <a href="mailto:your-email@example.com">your-email@example.com</a><br>
-  <strong>Twitter:</strong> <a href="https://twitter.com/yourhandle">@yourhandle</a><br>
-  <strong>GitHub:</strong> <a href="https://github.com/yourusername">yourusername</a>
+  <strong>Author:</strong>Mubeen Naushad<br>
+  <strong>Email:</strong> <a href="mailto:mubeennaushad@gmail.com">mubeennaushad@gmail.com</a><br>
+  <strong>Linkedin:</strong> <a href="https://linkedin.com/in/mubeen-naushad">@MubeenNaushad</a><br>
+  <strong>GitHub:</strong> <a href="https://github.com/mubeennaushad">Mubeen Naushad</a>
 </p>
