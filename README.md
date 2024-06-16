@@ -3,7 +3,11 @@
 
 <!-- Project Image -->
 ## Video Demo
-[Watch the Video Demo](https://www.youtube.com/watch?v=qeuFMNZoxDI)
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=qeuFMNZoxDI">Watch the Video Demo</a>
+</p>
+
 
 <!-- Table of Contents -->
 <h2>Table of Contents</h2>
