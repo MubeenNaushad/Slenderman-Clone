@@ -20,7 +20,7 @@
 <!-- Introduction -->
 <h2 id="introduction">Introduction</h2>
 <p>
-  "Slenderman Clone" is a first-person horror game inspired by the infamous Slenderman myth. Players are tasked with navigating through a dark, eerie forest to collect pages while avoiding the haunting presence of Slenderman.
+  "Slenderman 2.0" is a first-person horror game inspired by the infamous Slenderman myth. Players are tasked with navigating through a dark, eerie forest to collect pages while avoiding the haunting presence of Slenderman.
 </p>
 
 <!-- Features -->
