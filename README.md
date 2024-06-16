@@ -2,9 +2,9 @@
 <h1 align="center">Slenderman 2.0</h1>
 
 <!-- Project Image -->
-## Project Demo
+<h2 align="center">Project Demo</h2>
 
-![Project Demo](https://example.com/demo.gif)
+[Watch the Video Demo](https://www.youtube.com/watch?v=qeuFMNZoxDI)
 
 
 <!-- Table of Contents -->
