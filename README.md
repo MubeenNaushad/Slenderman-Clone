@@ -2,9 +2,9 @@
 <h1 align="center">Slenderman 2.0</h1>
 
 <!-- Project Image -->
-<p align="center">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/qeuFMNZoxDI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</p>
+## Project Demo
+
+![Project Demo](https://example.com/demo.gif)
 
 
 <!-- Table of Contents -->
