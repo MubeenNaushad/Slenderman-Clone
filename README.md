@@ -52,11 +52,8 @@
   </code></pre>
   <li><strong>Run the Game:</strong></li>
   <pre><code>
-  # For Python
-  python main.py
-  
   # For Unity
-  # Click on the Play button in the Unity Editor
+  # Click on the Play button in the Unity Editor or double-click the application in the Build.
   </code></pre>
 </ol>
 
