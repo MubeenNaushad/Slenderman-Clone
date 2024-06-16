@@ -28,8 +28,7 @@
 <ul>
   <li><strong>Immersive Atmosphere:</strong> Experience a dark and creepy environment with high-quality graphics and sound.</li>
   <li><strong>Challenging Gameplay:</strong> Find all the hidden pages before Slenderman catches you.</li>
-  <li><strong>Randomized Elements:</strong> Each playthrough is unique with randomized page locations and Slenderman behavior.</li>
-  <li><strong>Multiple Levels:</strong> Progress through various levels, each with increasing difficulty and new environments.</li>
+  <li><strong>Randomized Elements:</strong> Each playthrough is unique with randomized Slenderman behavior.</li>
 </ul>
 
 <!-- Installation -->
