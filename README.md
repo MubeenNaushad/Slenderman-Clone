@@ -14,8 +14,6 @@
   <li><a href="#installation">Installation</a></li>
   <li><a href="#how-to-play">How to Play</a></li>
   <li><a href="#controls">Controls</a></li>
-  <li><a href="#screenshots">Screenshots</a></li>
-  <li><a href="#contributing">Contributing</a></li>
   <li><a href="#contact">Contact</a></li>
 </ul>
 
@@ -77,30 +75,10 @@
   <li><code>Esc</code>: Pause/Menu</li>
 </ul>
 
-<!-- Screenshots -->
-<h2 id="screenshots">Screenshots</h2>
-<p align="center">
-  <img src="https://link-to-your-screenshot1.png" alt="Screenshot 1" width="600">
-</p>
-<p align="center">
-  <img src="https://link-to-your-screenshot2.png" alt="Screenshot 2" width="600">
-</p>
-
-<!-- Contributing -->
-<h2 id="contributing">Contributing</h2>
-<p>We welcome contributions from the community. To contribute:</p>
-<ol>
-  <li>Fork the repository.</li>
-  <li>Create a new branch: <code>git checkout -b feature/your-feature-name</code></li>
-  <li>Make your changes and commit them: <code>git commit -m 'Add some feature'</code></li>
-  <li>Push to the branch: <code>git push origin feature/your-feature-name</code></li>
-  <li>Open a pull request.</li>
-</ol>
-
 <!-- Contact -->
 <h2 id="contact">Contact</h2>
 <p>
-  <strong>Author:</strong>Mubeen Naushad<br>
+  <strong>Author:</strong> Mubeen Naushad<br>
   <strong>Email:</strong> <a href="mailto:mubeennaushad@gmail.com">mubeennaushad@gmail.com</a><br>
   <strong>Linkedin:</strong> <a href="https://linkedin.com/in/mubeen-naushad">@MubeenNaushad</a><br>
   <strong>GitHub:</strong> <a href="https://github.com/mubeennaushad">Mubeen Naushad</a>
