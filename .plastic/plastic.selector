@@ -1,0 +1,4 @@
+repository "Slenderman@Senenzo@cloud"
+  path "/"
+    br "/main"
+    co "/main"
