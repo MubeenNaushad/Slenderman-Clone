@@ -38,10 +38,10 @@
   <li><strong>Clone the Repository:</strong></li>
   <pre><code>https://github.com/MubeenNaushad/Slenderman-Clone.git</code></pre>
   <li><strong>Navigate to the Project Directory:</strong></li>
-  <pre><code>cd slenderman-clone</code></pre>
+  <pre><code>cd Slenderman-Clone</code></pre>
   <li><strong>Install Dependencies:</strong></li>
   <pre><code>
-  For Unity (if applicable)
+  For Unity
   Open the project in Unity and it will automatically install dependencies
   </code></pre>
   <li><strong>Run the Game:</strong></li>
@@ -55,7 +55,7 @@
 <h2 id="how-to-play">How to Play</h2>
 <ol>
   <li><strong>Objective:</strong> Find all the pages scattered throughout the forest while avoiding Slenderman.</li>
-  <li><strong>Movement:</strong> Use <code>W</code>, <code>A</code>, <code>S</code>, <code>D</code> keys to move around.</li>
+  <li><strong>Movement:</strong> Use <code>W</code>, <code>A</code>, <code>S</code>, <code>D</code> keys to move around.</li>and, <code>F</code> to open flashlight.</li>
   <li><strong>Look Around:</strong> Use your mouse to look around.</li>
   <li><strong>Collect Pages:</strong> Approach a page and press <code>E</code> to collect it.</li>
   <li><strong>Avoid Slenderman:</strong> Do not look at Slenderman for too long; if he gets too close, you will lose.</li>
