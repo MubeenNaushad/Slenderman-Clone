@@ -70,6 +70,7 @@
   <li><code>A</code>: Move Left</li>
   <li><code>S</code>: Move Backward</li>
   <li><code>D</code>: Move Right</li>
+  <li><code>F</code>: Flashlight</li>
   <li>Mouse: Look Around</li>
   <li><code>E</code>: Interact/Collect Page</li>
   <li><code>Shift</code>: Sprint</li>
