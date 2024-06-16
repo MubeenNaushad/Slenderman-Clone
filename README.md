@@ -1,5 +1,5 @@
 <!-- Project Title -->
-<h1 align="center">Slenderman Clone</h1>
+<h1 align="center">Slenderman 2.0</h1>
 
 <!-- Project Image -->
 <p align="center">
