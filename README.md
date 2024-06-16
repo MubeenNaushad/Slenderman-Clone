@@ -44,16 +44,13 @@
   <pre><code>cd slenderman-clone</code></pre>
   <li><strong>Install Dependencies:</strong></li>
   <pre><code>
-  # For Python
-  pip install -r requirements.txt
-  
-  # For Unity (if applicable)
-  # Open the project in Unity and it will automatically install dependencies
+  For Unity (if applicable)
+  Open the project in Unity and it will automatically install dependencies
   </code></pre>
   <li><strong>Run the Game:</strong></li>
   <pre><code>
-  # For Unity
-  # Click on the Play button in the Unity Editor or double-click the application in the Build.
+  For Unity
+  Click on the Play button in the Unity Editor or double-click the application in the Build.
   </code></pre>
 </ol>
 
