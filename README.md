@@ -16,7 +16,6 @@
   <li><a href="#controls">Controls</a></li>
   <li><a href="#screenshots">Screenshots</a></li>
   <li><a href="#contributing">Contributing</a></li>
-  <li><a href="#license">License</a></li>
   <li><a href="#contact">Contact</a></li>
 </ul>
 
@@ -39,7 +38,7 @@
 <h2 id="installation">Installation</h2>
 <ol>
   <li><strong>Clone the Repository:</strong></li>
-  <pre><code>git clone https://github.com/yourusername/slenderman-clone.git</code></pre>
+  <pre><code>https://github.com/MubeenNaushad/Slenderman-Clone.git</code></pre>
   <li><strong>Navigate to the Project Directory:</strong></li>
   <pre><code>cd slenderman-clone</code></pre>
   <li><strong>Install Dependencies:</strong></li>
