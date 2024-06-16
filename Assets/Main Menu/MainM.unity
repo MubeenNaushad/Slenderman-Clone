@@ -2996,7 +2996,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Mahad hassan
+  m_Text:  
 --- !u!222 &817948098
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -3777,7 +3777,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Asfund Ali
+  m_Text:  
 --- !u!222 &1139776787
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -5367,7 +5367,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Arish amin
+  m_Text:  
 --- !u!222 &1524896737
 CanvasRenderer:
   m_ObjectHideFlags: 0
