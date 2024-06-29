@@ -53,7 +53,7 @@
   </code></pre>
 </ol>
 
-<!-- How to Play -->
+
 <h2 id="how-to-play">How to Play</h2>
 <ol>
   <li><strong>Objective:</strong> Find all the pages scattered throughout the forest while avoiding Slenderman.</li>
@@ -63,7 +63,7 @@
   <li><strong>Avoid Slenderman:</strong> Do not look at Slenderman for too long; if he gets too close, you will lose.</li>
 </ol>
 
-<!-- Controls -->
+
 <h2 id="controls">Controls</h2>
 <ul>
   <li><code>W</code>: Move Forward</li>
