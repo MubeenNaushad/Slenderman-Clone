@@ -77,7 +77,7 @@
   <li><code>Esc</code>: Pause/Menu</li>
 </ul>
 
-<!-- Contact -->
+
 <h2 id="contact">Contact</h2>
 <p>
   <strong>Author:</strong> Mubeen Naushad<br>
