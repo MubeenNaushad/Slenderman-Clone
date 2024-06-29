@@ -9,7 +9,7 @@
   </a>
 </p>
 
-<!-- Table of Contents -->
+
 <h2>Table of Contents</h2>
 <ul>
   <li><a href="#introduction">Introduction</a></li>
@@ -20,7 +20,7 @@
   <li><a href="#contact">Contact</a></li>
 </ul>
 
-<!-- Introduction -->
+
 <h2 id="introduction">Introduction</h2>
 <p>
   "Slenderman 2.0" is a first-person horror game inspired by the infamous Slenderman myth. Players are tasked with navigating through a dark, eerie forest to collect pages while avoiding the haunting presence of Slenderman.
