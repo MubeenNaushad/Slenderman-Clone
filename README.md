@@ -1,4 +1,4 @@
-<!-- Project Title -->
+
 <h1 align="center">Slenderman 2.0</h1>
 
 
