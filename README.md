@@ -1,7 +1,7 @@
 <!-- Project Title -->
 <h1 align="center">Slenderman 2.0</h1>
 
-<!-- Project Image -->
+
 <h2 align="center">Project Demo</h2>
 <p align="center">
   <a href="https://www.youtube.com/watch?v=qeuFMNZoxDI" target="_blank" rel="noopener noreferrer">
