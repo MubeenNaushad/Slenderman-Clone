@@ -53,7 +53,6 @@
   </code></pre>
 </ol>
 
-
 <h2 id="how-to-play">How to Play</h2>
 <ol>
   <li><strong>Objective:</strong> Find all the pages scattered throughout the forest while avoiding Slenderman.</li>
