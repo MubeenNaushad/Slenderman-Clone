@@ -25,7 +25,6 @@
   "Slenderman 2.0" is a first-person horror game inspired by the infamous Slenderman myth. Players are tasked with navigating through a dark, eerie forest to collect pages while avoiding the haunting presence of Slenderman.
 </p>
 
-
 <h2 id="features">Features</h2>
 <ul>
   <li><strong>Immersive Atmosphere:</strong> Experience a dark and creepy environment with high-quality graphics and sound.</li>
