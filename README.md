@@ -44,6 +44,10 @@
   For Unity
   Open the project in Unity and it will automatically install dependencies
   </code></pre>
+  <li><strong>Import TextMesh Pro Essential Resources:</strong></li>
+  <p>If text appears as white rectangles in-game, TMP resources need to be imported. In the Unity menu, go to <strong>Window → TextMeshPro → Import TMP Essential Resources</strong> and click Import.</p>
+  <li><strong>Fix Unity Version Control warning (optional):</strong></li>
+  <p>If you see a Plastic SCM / Unity VCS error in the console, go to <strong>Edit → Project Settings → Version Control</strong> and set Mode to <strong>Visible Meta Files</strong>.</p>
   <li><strong>Run the Game:</strong></li>
   <pre><code>
   For Unity
